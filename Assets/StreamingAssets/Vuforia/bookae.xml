@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Skelton" size="6.000000 9.000000" />
+    <ImageTarget name="ribcage" size="6.000000 3.267776" />
+    <ImageTarget name="heart" size="6.000000 7.200000" />
+    <ImageTarget name="digestive-system" size="6.000000 3.997714" />
+    <ImageTarget name="images" size="6.000000 8.113990" />
+  </Tracking>
+</QCARConfig>
